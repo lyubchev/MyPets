@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i%22");
+body {
+    background-image: url("../../images/background.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    min-width: 50%;
+    margin: 0 auto;
+}
+
+.title {
+    margin-top: 1%;
+    text-align: center;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+.header {
+    background-color: #feffc3;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 2px 2px 8px #000000;
+    z-index: 999;
+}
+
+.navbar {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+.navbar a {
+    transition: 0.3s ease;
+    color: #feffc3;
+    padding: 14px 16px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    background-color: #a35928;
+}
+
+.navbar a:hover {
+    background-color: #4a2512;
+}
+.container {
+    position: absolute;
+    font-size: 2rem;
+    top: 100%;
+    width: 100%;
+    scroll-behavior: smooth;
+    overflow: hidden
+}
+.HOME{
+    display: inline-block;
+    background-color: #feffc3;
+    color: #4a2512;
+    font-size: 25px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    text-align:center;
+    top: 100%;
+    width: 100%;
+    position: relative;
+    padding: 1% 0%;
+    scroll-behavior: smooth;
+}
