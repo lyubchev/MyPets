@@ -53,10 +53,12 @@ a{
 .container {
     position: absolute;
     font-size: 2rem;
-    top: 100%;
+    top: 70%;
+	padding: 0% 0%;
     width: 100%;
     scroll-behavior: smooth;
-    overflow: hidden
+    overflow: hidden;
+	box-shadow: 2px 2px 8px #000000;
 }
 .HOME{
     display: inline-block;
