@@ -112,7 +112,7 @@ a{
 }
 #homeAnchor, #galleryAnchor{
  position: relative;
- top: -250px;
+ top: -19%;
  visibility: hidden;
  display:block
 }
