@@ -44,7 +44,9 @@ body {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     background-color: #a35928;
 }
-
+a{
+    cursor: pointer
+}
 .navbar a:hover {
     background-color: #4a2512;
 }
