@@ -109,9 +109,8 @@ body {
     scroll-behavior: smooth;
 }
 #homeAnchor, #galleryAnchor{
-    
-position: relative;
+ position: relative;
  top: -250px;
  visibility: hidden;
-    display:block
+ display:block
 }
