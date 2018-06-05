@@ -69,3 +69,42 @@ body {
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
+.GALLERY{
+    display: inline-block;
+    background-color:#694f36;
+    color: #feffc3;
+    font-size: 25px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    text-align:center;
+    top: 100%;
+    width: 100%;
+    position: relative;
+    padding: 1% 0%;
+    scroll-behavior: smooth;
+}
+.CONTACT{
+    display: inline-block;
+    background-color: #feffc3;
+    color: #4a2512;
+    font-size: 25px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    text-align:center;
+    top: 100%;
+    width: 100%;
+    position: relative;
+    padding: 1% 0%;
+    scroll-behavior: smooth;
+}
+.CONTACTME{
+    display: inline-block;
+    background-color:#694f36;
+    color: #feffc3;
+    font-size: 25px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    text-align:center;
+    top: 100%;
+    width: 100%;
+    position: relative;
+    padding: 1% 0%;
+    scroll-behavior: smooth;
+}
