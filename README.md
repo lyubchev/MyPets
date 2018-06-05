@@ -1,3 +1,4 @@
 # MyPets
 Simple website for my IT homework
-btw my this is my first website
+
+btw this is my first website
