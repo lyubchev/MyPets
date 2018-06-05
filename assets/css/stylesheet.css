@@ -44,77 +44,86 @@ body {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     background-color: #a35928;
 }
-a{
+
+a {
     cursor: pointer
 }
+
 .navbar a:hover {
     background-color: #4a2512;
 }
+
 .container {
+    box-shadow: 0px 1px 8px #000000;
     position: absolute;
     font-size: 2rem;
     top: 70%;
-	padding: 0% 0%;
+    padding: 0% 0%;
     width: 100%;
     scroll-behavior: smooth;
     overflow: hidden;
-	box-shadow: 2px 2px 8px #000000;
 }
-.HOME{
+
+.HOME {
     display: inline-block;
     background-color: #feffc3;
     color: #4a2512;
     font-size: 25px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    text-align:center;
+    text-align: center;
     top: 100%;
     width: 100%;
     position: relative;
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
-.GALLERY{
+
+.GALLERY {
     display: inline-block;
-    background-color:#694f36;
+    background-color: #694f36;
     color: #feffc3;
     font-size: 25px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    text-align:center;
+    text-align: center;
     top: 100%;
     width: 100%;
     position: relative;
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
-.CONTACT{
+
+.CONTACT {
     display: inline-block;
     background-color: #feffc3;
     color: #4a2512;
     font-size: 25px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    text-align:center;
+    text-align: center;
     top: 100%;
     width: 100%;
     position: relative;
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
-.CONTACTME{
+
+.CONTACTME {
     display: inline-block;
-    background-color:#694f36;
+    background-color: #694f36;
     color: #feffc3;
     font-size: 25px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    text-align:center;
+    text-align: center;
     top: 100%;
     width: 100%;
     position: relative;
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
-#homeAnchor, #galleryAnchor{
- position: relative;
- top: -19%;
- visibility: hidden;
- display:block
+
+#homeAnchor,
+#galleryAnchor {
+    position: relative;
+    top: -220px;
+    visibility: hidden;
+    display: block
 }
