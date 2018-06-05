@@ -108,3 +108,10 @@ body {
     padding: 1% 0%;
     scroll-behavior: smooth;
 }
+#homeAnchor, #galleryAnchor{
+    
+position: relative;
+ top: -250px;
+ visibility: hidden;
+    Display:block
+}
